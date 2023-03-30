@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663134956900",
+    "project_id": "job365-34106",
+    "storage_bucket": "job365-34106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663134956900:android:04711cd023630e745f1e71",
+        "android_client_info": {
+          "package_name": "com.example.job365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663134956900-2gg09bbhi593u3navg6jggolk28ejb4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.job365",
+            "certificate_hash": "298dde2ad26f954405e4405fa34d1f83587b1cf7"
+          }
+        },
+        {
+          "client_id": "663134956900-1uv6rkrkarl0bohop84valh9lv3r0rg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJqepeO3wUNvuuP7Xfkwkqv6ibfTN9vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663134956900-1uv6rkrkarl0bohop84valh9lv3r0rg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
